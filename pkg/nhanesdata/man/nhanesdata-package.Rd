@@ -13,7 +13,7 @@ This package contains data from the National Health and Nutrition Examination Su
 Package: \tab nhanesdata\cr
 Type: \tab Package\cr
 Version: \tab 1.1.1\cr
-Date: \tab 2014-07-23\cr
+Date: \tab 2014-11-24\cr
 License: \tab GPL-2\cr
 }
 This package simply contains data from NHANES 1999-2012. Each dataset can be loaded into R by typing data(filename), where filename is the file name listed on the NHANES website [1]. 
