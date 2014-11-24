@@ -6,7 +6,7 @@
 Contains data from continuous NHANES (years 1999-2012).
 }
 \description{
-This package contains data from the National Health and Nutrition Examination Survey (NHANES), years 1999-2012, and functions for preparing datasets for statistical analysis. The goal is to make it easier for researchers to work with NHANES data in R.
+Contains data from the National Health and Nutrition Examination Survey (NHANES), years 1999-2012, and functions for preparing datasets for statistical analysis. The goal is to make it easier for researchers to work with NHANES data in R.
 }
 \details{
 \tabular{ll}{
